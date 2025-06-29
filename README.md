@@ -1,1 +1,4 @@
-This is the introductory project on HTML I'll create based on the Odin Project. I hope to demonstrate a basic knowledge of HTML by creating this website.
+This is the introductory project on HTML I'll create based on the Odin Project. I hope to demonstrate a basic knowledge of HTML by creating this website. Here are the things I learned:
+1) The headings of the html file that tells the computer the type of symbols, language, html version. There's a shortcut for this on vs code with "!"
+2) How to put images into a website. All the source files should be in one folder usually called "img". It's good practice to have an alt so people know what it is if it doesn't load. It's also good to put in the dimensions
+3) Using ../ to properly refer to certain files so the computer knows where to get them. 
